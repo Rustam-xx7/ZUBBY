@@ -473,7 +473,7 @@ export default function Home() {
           </div>
 
           <div className="col-span-6 flex flex-col justify-center reveal-from-right">
-            <div className="bg-white/92 p-12 rounded-3xl border border-white/80 shadow-2xl">
+            <div className="bg-white/55 p-12 rounded-3xl border border-white/20 shadow-2xl">
               <div className="flex items-center gap-3.5 mb-6">
                 <div className="w-[3px] h-6 bg-jabee-orange rounded-full"></div>
                 <span className="text-sm font-bold uppercase tracking-[0.25em] text-jabee-orange">

@@ -99,7 +99,7 @@ export default function Character1ScrollCanvas({ isLoading, triggerId = 'story' 
           ref={canvasRef}
           width={1280}
           height={720}
-          className="max-h-[580px] w-auto object-contain drop-shadow-xl mix-blend-multiply"
+          className="max-h-[580px] w-auto object-contain mix-blend-multiply"
         />
 
         {/* Floating status badge next to character */}
