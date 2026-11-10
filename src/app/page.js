@@ -385,7 +385,7 @@ export default function Home() {
           <div className="col-span-6 relative flex flex-col items-center justify-center gap-3 py-8 reveal-from-right">
             <div className="bg-[#181A20]/95 border border-amber-500/50 text-amber-300 px-5 py-3 rounded-2xl text-xs font-semibold shadow-2xl flex items-center gap-2.5 animate-float-1">
               <span className="text-amber-400 font-bold">↑</span>
-              <span>Fare increased to $28.50</span>
+              <span>Fare increased to ₹28.50</span>
             </div>
             <div className="bg-[#181A20]/95 border border-blue-500/40 text-blue-200 px-5 py-3 rounded-2xl text-xs font-semibold shadow-2xl flex items-center gap-2.5 animate-float-2">
               <span className="w-2 h-2 rounded-full bg-blue-400 animate-ping"></span>
@@ -419,7 +419,7 @@ export default function Home() {
             <img alt="Anxious professional waiting in the dark" className="w-full h-[420px] object-cover object-bottom" src="/character3.jpg" />
             <div className="absolute top-3.5 right-3 bg-[#181A20]/90 backdrop-blur-md border border-red-500/40 text-red-200 text-[10.5px] font-semibold px-2.5 py-1 rounded-full shadow-lg flex items-center gap-1.5">
               <span className="w-1.5 h-1.5 rounded-full bg-red-400 animate-ping"></span>
-              <span>Fare increased to $28.50</span>
+              <span>Fare increased to ₹28.50</span>
             </div>
             <div className="absolute bottom-14 left-3 bg-[#181A20]/90 backdrop-blur-md border border-amber-500/30 text-amber-200 text-[10.5px] font-medium px-2.5 py-1 rounded-full shadow-lg flex items-center gap-1.5">
               <span className="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
